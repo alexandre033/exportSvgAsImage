@@ -1,5 +1,5 @@
 {
-  "name": "exportSvgAsImage",
+  "name": "export-svg-as-image",
   "version": "1.0.0",
   "description": "React package that allow user to export an svg as png/jpeg file",
   "main": "dist/index.js",
