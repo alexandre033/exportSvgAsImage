@@ -41,9 +41,8 @@ function MyApp(){
 you need to declare a ref by using the Hook useRef() from React.
 
 ## Props
-```
 | Props  | Required | Usage |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | svgRef  | YES | A reference to the svg using useRef  |
 | type  | NO | two types => "image/png" or "image/jpeg"  |
 | scale  | NO | the scale you want, define to 1  |
@@ -53,7 +52,6 @@ you need to declare a ref by using the Hook useRef() from React.
 | backgroundColor  | NO | For jpeg file you can define a backgroundColor, base set to null = "transparent"  |
 | buttonTitle  | NO | The label of the button, base set to "Export"  |
 | classes  | NO | Classe name that allow you to re-design the button  |
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
