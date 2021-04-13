@@ -1,0 +1,15 @@
+$mainColor: #006cb7;
+$hoverColor: #3f86b7;
+
+.exportBtn {
+  padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+  background: $mainColor;
+  border: none;
+  color: white;
+  border-radius: 0.2rem;
+  transition: "background" 0.2 ease;
+
+  &:hover {
+    background: $hoverColor;
+  }
+}
