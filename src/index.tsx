@@ -52,7 +52,6 @@ function ExportChartAsImage({
   buttonTitle = "Export",
   classes,
 }: Props) {
-  debugger;
   const downloadImage = () => {
     // Find the svg by ref
     const { current } = svgRef;
